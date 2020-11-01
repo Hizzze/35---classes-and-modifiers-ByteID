@@ -9,10 +9,10 @@ public class Сustomer {
 	private double total = 1000;
 	
 public Сustomer() {
-		super();
-		this.ID = 1;
-    this.isNew = true;
-    this.total = 1000;
+	super();
+	this.ID = 1;
+	this.isNew = true;
+	this.total = 1000;
 	}
 
   public int getID() {
