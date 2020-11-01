@@ -47,5 +47,21 @@ public Сustomer() {
 }
 ```
 
+## CustomerTest.java
+
+```java
+public class CustomerTest {
+
+	public static void main(String[] args) {
+		Сustomer c = new Сustomer();
+    c.setID(4);
+    c.setNew(false);
+    c.setTotal(313.24);
+    c.displayCustomerInfo();
+	}
+
+}
+```
+
 ## Результат роботи
 ![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-ByteID/blob/main/Solution/done.png)
