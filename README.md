@@ -64,4 +64,4 @@ public class CustomerTest {
 ```
 
 ## Результат роботи
-![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-ByteID/blob/main/Solution/done.png)
+![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-ByteID/blob/main/Solution/donee.png)
