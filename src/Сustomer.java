@@ -1,8 +1,3 @@
-# Класи та модифікатори видимості - ПР
-
-## Customer.java
-
-```java
 public class Сustomer {
 	private int ID;
 	private boolean isNew = true;
@@ -45,7 +40,3 @@ public Сustomer() {
 		System.out.println("Total is " + this.total);
 	}
 }
-```
-
-## Результат роботи
-![]()
