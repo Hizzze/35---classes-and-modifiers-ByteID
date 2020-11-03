@@ -9,7 +9,6 @@ public class Сustomer {
 	private double total = 1000;
 	
 public Сustomer() {
-	super();
 	this.ID = 1;
 	this.isNew = true;
 	this.total = 1000;
@@ -19,9 +18,6 @@ public Сustomer() {
 		return ID;
 	}
 
-	public void setID(int iD) {
-		ID = iD;
-	}
 
 	public boolean isNew() {
 		return isNew;
@@ -54,7 +50,6 @@ public class CustomerTest {
 
 	public static void main(String[] args) {
 		Сustomer c = new Сustomer();
-    c.setID(4);
     c.setNew(false);
     c.setTotal(313.24);
     c.displayCustomerInfo();
